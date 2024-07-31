@@ -47,4 +47,4 @@ The father full of peril of what thou wast saw
 This bellkman cast hath residenced the time of the sea,
 Great All-Souls' transgred was aside.
 ```
-Even though the generated text cannot be classified as coherent or correct English, you can still see major improvements over randomly generating characters. The generated text also resembles the Shakespearean pretty well.
+Even though the generated text cannot be classified as coherent or correct English, you can still see major improvements over randomly generating characters. The generated text also resembles the Shakespearean style pretty well.
